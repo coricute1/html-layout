@@ -1,0 +1,40 @@
+body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 10%;
+    background-color: lightgray;
+    padding: 5px 30px;
+}
+.blue-box {
+    width: 10%;
+    height: 100%;
+    background-color: #3399ff;
+    display: inline-block;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 50px;
+}
+.rec{
+    height: 15%;
+}
+.blue-rec {
+    background-color: #1A86EA;
+}
+
+.teal-rec {
+    background-color: #1AD1BA;
+}
+
+.puke-rec {
+    background-color: #B2E561;
+}
+
+.yellow-rec {
+    background-color: #D6C105;
+}
